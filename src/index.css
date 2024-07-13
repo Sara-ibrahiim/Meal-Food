@@ -170,6 +170,9 @@ form button:hover{
 }
 
 @media screen and (max-width:600px){
+  body{
+    overflow-x: hidden !important;
+  }
   .Home-img-Right-side{
 
 
