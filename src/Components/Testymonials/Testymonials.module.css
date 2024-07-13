@@ -1,0 +1,18 @@
+.Testymonials {}
+section{
+    background-color: #C98A40;
+}
+h1{
+    font-weight: 800 !important;
+  font-size: 100px !important;
+  letter-spacing: 8px !important;
+
+}
+
+h6  {
+    font-weight: 800 !important;
+}
+p{
+    color: #333333 !important;
+    font-weight: 500 !important;
+}
