@@ -50,7 +50,7 @@ export default function Home() {
   </div>
   <div className="col-sm-7 d-flex align-items-end number-colum ms-2 text-right-side ">
     <p className='text-white me-2 Number'>Telephone:</p>
-    <p className='text-white Number'> +7 700 000 00 00</p>
+    <p className='text-white Number Phone'> +7 700 000 00 00</p>
     
     </div>
   
